@@ -30,6 +30,7 @@ const TARGETS = [
   { key: 'cursor',   name: 'Cursor',           dir: h('.cursor', 'skills'),               detect: h('.cursor') },
   { key: 'gemini',   name: 'Gemini CLI',       dir: h('.gemini', 'skills'),               detect: h('.gemini') },
   { key: 'copilot',  name: 'GitHub Copilot',   dir: h('.copilot', 'skills'),              detect: h('.copilot') },
+  { key: 'codebuddy', name: 'CodeBuddy',        dir: h('.codebuddy', 'skills'),            detect: h('.codebuddy') },
   { key: 'opencode', name: 'OpenCode',         dir: h('.config', 'opencode', 'skills'),   detect: h('.config', 'opencode') },
   { key: 'windsurf', name: 'Windsurf',         dir: h('.codeium', 'windsurf', 'skills'),  detect: h('.codeium', 'windsurf') },
   { key: 'cline',    name: 'Cline',            dir: h('.cline', 'skills'),                detect: h('.cline') },
