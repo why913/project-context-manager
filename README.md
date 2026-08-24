@@ -84,6 +84,12 @@ User-scope paths, checked against each vendor's docs in August 2026.
 | `copilot` | GitHub Copilot | `~/.copilot/skills/` |
 | `codebuddy` | CodeBuddy | `~/.codebuddy/skills/` |
 | `workbuddy` | WorkBuddy | `~/.workbuddy/skills/` |
+| `zcode` | ZCode | `~/.zcode/skills/` |
+| `trae` | Trae | `~/.trae/skills/` |
+| `trae-cn` | Trae CN | `~/.trae-cn/skills/` |
+| `lingma` | Lingma | `~/.lingma/skills/` |
+| `qoder` | Qoder | `~/.qoder/skills/` |
+| `iflow` | iFlow CLI | `~/.iflow/skills/` |
 | `opencode` | OpenCode | `~/.config/opencode/skills/` |
 | `windsurf` | Windsurf | `~/.codeium/windsurf/skills/` |
 | `cline` | Cline | `~/.cline/skills/` |
